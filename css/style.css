@@ -53,5 +53,26 @@ body{
     font-size: 18px;
     line-height: 25px;
     color: smokewhite;
-  
+}
+#history{
+    width: 95%;
+    margin: auto;
+    padding: 20px;
+}
+#history h2{
+    text-transform: capitalize;
+    margin: 20px;
+    font-size: 30px;
+    color: rgb(15, 158, 158);
+    text-align: center;
+}
+#history ul{
+    width: 70%;
+    margin:auto;
+    line-height: 35px;
+    font-size: 20px;
+}
+#history list{
+     margin:10px;
+    text-align: left;
 }
